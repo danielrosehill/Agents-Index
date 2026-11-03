@@ -8,6 +8,8 @@
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202026-green?style=flat-square)](https://github.com/danielrosehill/Agents-Index)
 [![Agents Index](https://img.shields.io/badge/AI%20Agents-80+-brightgreen?style=flat-square)](https://github.com/danielrosehill/Agents-Index)
 
+**Write-up:** [My curated AI indexes on GitHub: what each list covers](https://blog.danielrosehill.com/posts/curated-ai-indexes-awesome-lists-agents-evals-voice-au87cm/)
+
 A periodically updated list of AI agent configurations I have shared on GitHub and related projects (such as system prompt libraries).
 
 **Last Updated:** October 2026
